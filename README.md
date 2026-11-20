@@ -44,9 +44,22 @@ Software developer based in **Bangkok, Thailand**. I enjoy working across web an
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-20232A?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
+**Development Tools**
+
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-20232A?style=for-the-badge)
+![Visual Studio 2026](https://img.shields.io/badge/Visual%20Studio%202026-20232A?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cursor](https://img.shields.io/badge/Cursor-20232A?style=for-the-badge)
+
 ## Healthcare Systems
 
-Experience sending data to hospital information systems, including **HOSxP**.
+- Built systems to retrieve measurement data from medical devices.
+- Built systems to send data to hospital information systems (HIS), including **HOSxP**.
+
+## AI-Assisted Development
+
+Use AI tools for software development, including **vibe coding**.
 
 ## Find me online
 
